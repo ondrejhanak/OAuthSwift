@@ -226,5 +226,19 @@
 		<key>consumerSecret</key>
 		<string></string>
 	</dict>
+	<key>Noun</key>
+	<dict>
+		<key>consumerSecret</key>
+		<string></string>
+		<key>consumerKey</key>
+		<string></string>
+	</dict>
+	<key>Imgur</key>
+	<dict>
+		<key>consumerSecret</key>
+		<string></string>
+		<key>consumerKey</key>
+		<string></string>
+	</dict>
 </dict>
 </plist>
